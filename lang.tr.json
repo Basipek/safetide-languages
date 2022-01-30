@@ -21,19 +21,19 @@
 
             "isitdownupmsg": "Yukarı",
 
-            "isitdowntitleseperator": ":",
+            "isitdowntitleseperator": "is",
 
             "isitdownnotexistmsg": "Alan adı geçersiz.",
 
             "infotitleinfostring": "Bilgi:",
 
-            "infoguildcount": "Sunucu Sayısı:",
+            "infoguildcount": "Lonca Sayısı:",
 
             "infousercount": "Kullanıcı Sayısı:",
 
             "infochannelcount": "Kanal Sayısı:",
 
-            "infoshardid": "Parça ID:",
+            "infoshardid": "Kırık ID:",
 
             "notinoperation": "Bu komut şu anda kullanılamıyor!",
             
